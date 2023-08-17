@@ -1,0 +1,2 @@
+# Breast-Cancer-Classification
+Breast cancer is a type of cancer that starts in the breast. It can start in one or both breasts. Cancer starts when cells begin to grow out of control. Breast cancer occurs almost entirely in women, but men can get breast cancer, too. It’s important to understand that most breast lumps are benign and not cancer (malignant). Benign tumors are usually well-defined and round or oval in shape. Malignant tumors are usually poorly defined and irregular with lobules.
